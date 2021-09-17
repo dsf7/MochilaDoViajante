@@ -1,0 +1,3 @@
+Historia do Git
+
+Foi criado por Linus Torvals, criador também do sistema operacional Linux.
